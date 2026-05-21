@@ -7,4 +7,7 @@
   Some hobbies that I enjoy are drawing, playing video games, playing soccer, and reading from time to time!
 
 # ✩₊˚.⋆☾⋆⁺₊✧ Skills
-  Skills I am confident and proficient in are
+  I have some skills that i'm currently learning and always trying to learn new skills. That aside skills im proficient in are: <br>
+   / -HTML- /
+   <br>
+   / -CSS- /
